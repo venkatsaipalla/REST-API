@@ -1,4 +1,4 @@
-# REST APIs | Cheat Sheet
+# REST APIs | Cheat Sheet.
 > Concepts in Focus
 
 - Get Books API
@@ -106,7 +106,7 @@ and many more...
 - Installing Third-party package bcrypt
 - Goodreads APIs for Specified Users
    - Register User API
-   - Login User API
+   - Login User API.
 
 ## 1. Installing Third-party package bcrypt
 
